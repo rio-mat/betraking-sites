@@ -1,0 +1,8 @@
+{
+  "name": "betraking-sites",
+  "version": "1.0.0",
+  "description": "Betraking premium landing pages",
+  "scripts": {
+    "build": "echo 'Static sites - no build needed'"
+  }
+}
